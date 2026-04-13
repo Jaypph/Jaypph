@@ -9,14 +9,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Jaypph GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaypph&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaypph&layout=compact&theme=tokyonight)
-
----
-
 Welcome to my developer hub. I build games, experimental projects, and interactive web ideas.
 
 I focus on creative mechanics, immersive experiences, and fun prototypes that evolve over time.
