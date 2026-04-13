@@ -1,47 +1,61 @@
 # 🚀 Jaypph
 
-**Game Developer • Creative Builder • Indie Project Explorer**
+**Game Developer • Creative Builder • Indie Studio in Motion**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jaypph&label=Profile%20Views&color=0e75b6&style=flat)
-
-![GitHub followers](https://img.shields.io/github/followers/Jaypph?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Jaypph?label=Stars&style=social)
-
----
-
-Welcome to my developer hub. I build games, experimental projects, and interactive web ideas.
-
-I focus on creative mechanics, immersive experiences, and fun prototypes that evolve over time.
+![Followers](https://img.shields.io/github/followers/Jaypph?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Jaypph?label=Stars&style=social)
 
 ---
 
-## 🧠 About
+## 🌌 Studio Status
+
+🟢 Building games  
+🟡 Experimenting with web systems  
+🟣 Designing interactive prototypes  
+
+> “Old-school iteration meets modern indie development.”
+
+---
+
+## 📊 GitHub Intelligence
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaypph&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaypph&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jaypph&theme=tokyonight)
+
+---
+
+## 🧠 About the Studio
+
+This is not just a profile — it’s a **small indie game studio in evolution**.
 
 I enjoy building:
-- 🎮 Arcade-style games with fast gameplay loops  
-- 🌐 Experimental web projects and tools  
-- 🧪 Interactive prototypes and systems  
-- ⚙️ Mechanics that evolve through iteration  
+- 🎮 Arcade-style gameplay systems  
+- 🌐 Experimental web platforms  
+- 🧪 Prototypes that test mechanics and interaction  
+- ⚙️ Systems that evolve through iteration (classic dev style)
 
-Everything is developed, shared, and improved continuously through iterative development cycles.
+Everything is built in cycles:  
+**idea → prototype → test → improve → repeat**
 
-This work is shared under the **GNU General Public License v3.0 (GPLv3)**.
+This project ecosystem is licensed under **GNU GPL v3.0**.
 
 ---
 
-## 🕹️ Projects
+## 🕹️ Featured Projects
 
 ### 🚀 SpaceShoot  
 **Type:** Game  
 **Link:** https://jaypph.github.io/SpaceShoot  
 
-A fast-paced space shooter focused on:
-- Arcade gameplay  
-- Explosions and action  
-- Reaction speed challenges  
-- Replayability  
-
-👉 A compact but intense space combat experience built for quick sessions and high scores.
+Arcade space combat with focus on:
+- Fast gameplay loops  
+- Action-driven mechanics  
+- High-score chasing  
+- Replayability systems  
 
 ---
 
@@ -49,19 +63,22 @@ A fast-paced space shooter focused on:
 **Type:** Web Platform  
 **Link:** https://jaypph.github.io  
 
-A creative web experiment featuring:
-- Interactive UI concepts  
-- Lightweight design  
-- Experimental digital storytelling  
-- Sandbox-style development  
+Experimental web sandbox featuring:
+- Interactive UI systems  
+- Lightweight performance design  
+- Creative digital storytelling  
+- Prototype playground structure  
 
-👉 A playground for ideas, mechanics, and web-based creativity.
+---
+
+## 🧭 Development Cycle
+Idea → Prototype → Test → Refine → Release → Iterate
+
+Old-school engineering mindset, modern execution speed.
 
 ---
 
 ## 📡 Contact
-
-Want to collaborate or follow development?
 
 - GitHub: https://github.com/Jaypph  
 
@@ -69,5 +86,4 @@ Want to collaborate or follow development?
 
 ## 🧾 License
 
-This project is licensed under the **GNU GPL v3.0**  
-(Free to use, modify, and redistribute under the same license terms)
+GNU GPL v3.0 — open, reusable, and community-driven.
